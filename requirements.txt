@@ -1,0 +1,9 @@
+torch
+scikit-learn
+matplotlib
+numpy
+pandas
+joblib
+ai-edge-torch
+# For inference on devices without full tensorflow:
+# tflite-runtime 
