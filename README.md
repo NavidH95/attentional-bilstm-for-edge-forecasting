@@ -3,7 +3,7 @@
 This project implements a Bidirectional LSTM with Attention model to forecast weather data from the Jena Climate dataset. The model is trained using PyTorch and can be converted to TFLite for efficient inference.
 
 ## Project Structure
-
+```
 ├── data/                  # Contains the raw CSV data
 ├── models/                # Python files for model architecture
 ├── train/                 # Scripts for training and evaluating the model
@@ -11,7 +11,7 @@ This project implements a Bidirectional LSTM with Attention model to forecast we
 ├── outputs/               # Directory for all generated files (models, plots)
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project explanation
-
+```
 ## How to Run
 
 ### 1. Setup
